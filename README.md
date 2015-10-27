@@ -1,2 +1,2 @@
-# 360qqbaidutaobao
-learn to code a weather app 
+# weatherz
+learn to code a weather app .
